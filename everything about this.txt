@@ -1,0 +1,23 @@
+✅ init
+✅ status
+✅ add
+✅ commit
+✅ log
+✅ diff
+✅ diff --staged
+
+➡️ restore
+➡️ restore --staged
+➡️ reset
+➡️ revert
+➡️ branch
+➡️ switch
+➡️ merge
+➡️ remote
+➡️ push
+➡️ fetch
+➡️ pull
+➡️ GitHub
+➡️ Pull Request
+➡️ Conflict
+➡️ stash
